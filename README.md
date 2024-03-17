@@ -1,3 +1,3 @@
-![Leetcode 算法题解 Go语言篇](cover-go.png)
+All ebooks have been moved to the [ebooks](https://github.com/smallnest/ebooks).
 
-![Leetcode 算法题解 Rust语言篇](cover-rust.png)
+所有的电子书都移动到了[ebooks](https://github.com/smallnest/ebooks)
